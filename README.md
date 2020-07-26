@@ -1,4 +1,4 @@
-![GitHub Logo](https://www.biocentric.nl/wp-content/uploads/2018/08/cec44feb-0b1b-4fe3-936d-67a51a1fe28e.png)
+![GitHub Logo](https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png?ssl=1)
 # My first Website
 ### Creating webpage in GitHub
 * Create a new repository
